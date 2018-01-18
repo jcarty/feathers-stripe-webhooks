@@ -34,7 +34,7 @@
     "stripe": "^4.9.1"
   },
   "peerDependencies": {
-    "feathers": "*"
+    "@feathersjs/feathers": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
